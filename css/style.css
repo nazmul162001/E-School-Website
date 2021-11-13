@@ -4,7 +4,9 @@
 .container-fluid{
     background-color: #F0FFF0;
 }
-
+.navbar{
+    background-color: #F0FFF0;
+}
 .logo{
     width: 200px;
 }
