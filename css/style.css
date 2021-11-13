@@ -1,0 +1,41 @@
+.hero{
+    padding: 150px 0;
+}
+.container-fluid{
+    background-color: #F0FFF0;
+}
+
+.logo{
+    width: 200px;
+}
+
+.style-button {
+    color: white !important;
+    background: #21B573;
+    border-radius: 20px;
+    border: none;
+    padding: 5px 20px;
+    cursor: pointer;
+}
+.sign-in{
+    display:block;
+}
+
+.hero-title{
+    color: red;
+    font-weight:500;
+}
+.color-title{
+    color: #21B573;
+}
+.left-content{
+    padding-right: 50px;
+}
+.hero-h1{
+    letter-spacing: 2px;
+}
+
+.book-bg{
+    background-color: #F8FFFB;
+    padding: 60px 0;
+}
